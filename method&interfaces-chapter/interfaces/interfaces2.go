@@ -27,15 +27,15 @@ func main() {
 	var i MyInterface
 
 	i = MyStruct{"Hello world "}
-	describe(&i)
+	Describe(&i)
 	i.M() //Calls method func (s MyStruct) M()
 
 	i = MyType(math.Pi)
-	describe(&i)
+	Describe(&i)
 	i.M() //Calls method func (t MyType) M()
 
 }
 
-func describe(i *MyInterface) {
+func Describe(i *MyInterface) {
 	fmt.Printf("(%v , %T) \n", i, i)
 }
