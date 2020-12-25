@@ -1,7 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0d7c73c-d03c-467e-85f7-8dc343106437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gorutines/goroutines0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gorutines/gorutines0.go" beforeDir="false" afterPath="$PROJECT_DIR$/gorutines/goroutines1.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gentjan Koliçaj &lt;gentjankolicaj@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m27cTNl5dwbCux4Vi6IchP3qMw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build goroutines1.go">
+    <configuration name="go build goroutines1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gorutines/goroutines1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gorutines0.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gorutines/gorutines0.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build goroutines1.go" />
+        <item itemvalue="Go Build.go build gorutines0.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0d7c73c-d03c-467e-85f7-8dc343106437" name="Default Changelist" comment="" />
+      <created>1608679911085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608679911085</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New project 'concurrency' for concurrency samples.">
+      <created>1608680223551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608680223551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project 'concurrency' for concurrency samples." />
+    <option name="LAST_COMMIT_MESSAGE" value="New project 'concurrency' for concurrency samples." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2" timestamp="1608680223487">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680223487" />
+    <state width="566" height="482" key="Diff.GoToChangePopup" timestamp="1608680039662">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="566" height="482" key="Diff.GoToChangePopup/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680039662" />
+    <state x="127" y="80" width="1092" height="580" key="DiffContextDialog" timestamp="1608680048916">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state x="127" y="80" width="1092" height="580" key="DiffContextDialog/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680048916" />
+    <state width="1320" height="272" key="GridCell.Tab.0.bottom" timestamp="1608907542349">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="272" key="GridCell.Tab.0.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608907542349" />
+    <state width="1320" height="272" key="GridCell.Tab.0.center" timestamp="1608907542349">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="272" key="GridCell.Tab.0.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608907542349" />
+    <state width="1320" height="272" key="GridCell.Tab.0.left" timestamp="1608907542349">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="272" key="GridCell.Tab.0.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608907542348" />
+    <state width="1320" height="272" key="GridCell.Tab.0.right" timestamp="1608907542349">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="272" key="GridCell.Tab.0.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608907542349" />
+    <state width="1320" height="356" key="GridCell.Tab.1.bottom" timestamp="1608905193941">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="356" key="GridCell.Tab.1.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608905193941" />
+    <state width="1320" height="356" key="GridCell.Tab.1.center" timestamp="1608905193941">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="356" key="GridCell.Tab.1.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608905193941" />
+    <state width="1320" height="356" key="GridCell.Tab.1.left" timestamp="1608905193941">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="356" key="GridCell.Tab.1.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608905193941" />
+    <state width="1320" height="356" key="GridCell.Tab.1.right" timestamp="1608905193941">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state width="1320" height="356" key="GridCell.Tab.1.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608905193941" />
+    <state x="521" y="281" width="303" height="178" key="VCS.ChangelistChooser" timestamp="1608680135776">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state x="521" y="281" width="303" height="178" key="VCS.ChangelistChooser/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680135776" />
+    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608680231241">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680231241" />
+    <state x="346" y="27" width="672" height="678" key="search.everywhere.popup" timestamp="1608906551977">
+      <screen x="0" y="27" width="1366" height="679" />
+    </state>
+    <state x="346" y="27" width="672" height="678" key="search.everywhere.popup/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608906551977" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/gorutines/goroutines0.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/gorutines/goroutines0.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
