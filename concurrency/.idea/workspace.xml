@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0d7c73c-d03c-467e-85f7-8dc343106437" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/select/default-select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select/select.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exercise0.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exercise1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutex/mutex0.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,36 +42,36 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build default-select.go">
-    <configuration name="go build channels0.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="concurrency" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/channels/channels0.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build channels1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="concurrency" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/channels/channels1.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build channels2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="concurrency" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/channels/channels2.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build exercise1.go">
     <configuration name="go build default-select.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="concurrency" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/select/default-select.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercise0.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/exercises/exercise0.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercise1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/exercises/exercise1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mutex0.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/mutex/mutex0.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise1.go" />
+        <item itemvalue="Go Build.go build mutex0.go" />
+        <item itemvalue="Go Build.go build exercise0.go" />
         <item itemvalue="Go Build.go build default-select.go" />
         <item itemvalue="Go Build.go build select.go" />
-        <item itemvalue="Go Build.go build channels2.go" />
-        <item itemvalue="Go Build.go build channels1.go" />
-        <item itemvalue="Go Build.go build channels0.go" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608944463542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New select samples.">
+      <created>1609021423684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609021423685</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,13 +140,14 @@
     <MESSAGE value="New project 'concurrency' for concurrency samples." />
     <MESSAGE value="New goroutine samples." />
     <MESSAGE value="New channel samples." />
-    <option name="LAST_COMMIT_MESSAGE" value="New channel samples." />
+    <MESSAGE value="New select samples." />
+    <option name="LAST_COMMIT_MESSAGE" value="New select samples." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2" timestamp="1608944463371">
+    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2" timestamp="1609021423468">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608944463371" />
+    <state x="211" y="27" width="933" height="679" key="CommitChangelistDialog2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609021423468" />
     <state width="566" height="482" key="Diff.GoToChangePopup" timestamp="1608680039662">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
@@ -147,46 +156,46 @@
       <screen x="0" y="27" width="1366" height="679" />
     </state>
     <state x="127" y="80" width="1092" height="580" key="DiffContextDialog/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680048916" />
-    <state width="1320" height="356" key="GridCell.Tab.0.bottom" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.0.bottom" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.0.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.0.center" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.0.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
+    <state width="1320" height="274" key="GridCell.Tab.0.center" timestamp="1609151967945">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.0.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.0.left" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.0.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967945" />
+    <state width="1320" height="274" key="GridCell.Tab.0.left" timestamp="1609151967945">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.0.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.0.right" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.0.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967945" />
+    <state width="1320" height="274" key="GridCell.Tab.0.right" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.0.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.1.bottom" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.0.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
+    <state width="1320" height="274" key="GridCell.Tab.1.bottom" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.1.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.1.center" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.1.bottom/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
+    <state width="1320" height="274" key="GridCell.Tab.1.center" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.1.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.1.left" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.1.center/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
+    <state width="1320" height="274" key="GridCell.Tab.1.left" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.1.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
-    <state width="1320" height="356" key="GridCell.Tab.1.right" timestamp="1608946030662">
+    <state width="1320" height="274" key="GridCell.Tab.1.left/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
+    <state width="1320" height="274" key="GridCell.Tab.1.right" timestamp="1609151967946">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state width="1320" height="356" key="GridCell.Tab.1.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608946030662" />
+    <state width="1320" height="274" key="GridCell.Tab.1.right/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609151967946" />
     <state x="521" y="281" width="303" height="178" key="VCS.ChangelistChooser" timestamp="1608680135776">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
     <state x="521" y="281" width="303" height="178" key="VCS.ChangelistChooser/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608680135776" />
-    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608944476626">
+    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1609023080770">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
-    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1608944476626" />
+    <state x="278" y="102" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.679/1366.0.1280.1024@0.27.1366.679" timestamp="1609023080770" />
     <state x="346" y="27" width="672" height="678" key="search.everywhere.popup" timestamp="1608906551977">
       <screen x="0" y="27" width="1366" height="679" />
     </state>
@@ -214,6 +223,21 @@
           <url>file://$PROJECT_DIR$/select/select.go</url>
           <line>8</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mutex/mutex0.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/exercises/exercise1.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/exercises/exercise1.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
